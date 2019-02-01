@@ -120,5 +120,4 @@
   {% include '_third-party/copy-code.swig' %}
   {% include '_third-party/pdf.swig' %}
 </body>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-backstretch/2.0.4/jquery.backstretch.min.js"></script>
 </html>
