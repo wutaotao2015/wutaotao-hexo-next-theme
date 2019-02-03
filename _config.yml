@@ -409,9 +409,9 @@ font:
 
   # Global font settings used for all elements in <body>.
   global:
-    external: true
+    external: false
     family: Lato
-    size: 18
+    size: 
 
   # Font settings for Headlines (H1, H2, H3, H4, H5, H6).
   # Fallback to `global` font settings.
@@ -437,7 +437,7 @@ font:
   codes:
     external: true
     family:
-    size: 16
+    size: 
 
 
 # ---------------------------------------------------------------
