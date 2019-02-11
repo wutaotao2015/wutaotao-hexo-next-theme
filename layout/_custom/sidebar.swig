@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <div id="days"></div>
 <script>
 function show_date_time(){
@@ -26,6 +25,3 @@ return i;
 }
 show_date_time();
 </script>
-=======
-
->>>>>>> aad86c9577445647c14fd05216aa043c9886f84b
